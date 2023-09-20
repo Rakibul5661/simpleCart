@@ -98,9 +98,9 @@ td a{
 td a:hover{
     background-color: white;
     padding: 5px 12px;
-    border: 1px solid black;
+    border: 1px solid #ff6543;
     border-radius: 50%;
-    color: black;
+    color: #ff6543;
     display: inline-block;
 }
 td button{
